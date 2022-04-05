@@ -10,4 +10,4 @@
 > ansible-playbook nginx.yam
 
 ### Результат балансировки(представлены кастомные страницы веб-серверов):
-! [web1] (/home/sirius/Загрузки/web11.png)
+! [web1] (/home/sirius/Загрузки/web11.jpg)
