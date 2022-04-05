@@ -10,6 +10,5 @@
 > ansible-playbook nginx.yam
 
 ### Результат балансировки(представлены кастомные страницы веб-серверов):
-[14]: /home/sirius/web1.png "web1.png"
-![web1][14]
+<img src="./home/sirius/web1.png"/>
 
