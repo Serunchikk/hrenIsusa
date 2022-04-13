@@ -68,7 +68,7 @@
     regexp: '^complete .*consul'
     line: complete -C /bin/consul consul
 
-######### Tasks for gossip encryption key
+# Tasks for gossip encryption key
 - name: Include gossip encrypt tasks
   include_tasks: encrypt_gossip.yml
 
